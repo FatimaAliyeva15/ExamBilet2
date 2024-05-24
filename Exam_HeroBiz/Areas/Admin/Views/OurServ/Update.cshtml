@@ -1,0 +1,28 @@
+﻿@using HeroBiz_Core.Models;
+@model OurService
+
+<div class="container">
+    <form method="post" enctype="multipart/form-data">
+        <div class="row">
+            <div class="mb-3 col-md-3">
+                <label asp-for="Title" class="form-label">Title</label>
+                <input asp-for="Title" class="form-control">
+                <span asp-validation-for="Title" style="color:red"></span>
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="ImgFile" class="form-label">ImgFile</label>
+                <input asp-for="ImgFile" class="form-control">
+                <span asp-validation-for="ImgFile" style="color:red"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="mb-3 col-md-9">
+                <label asp-for="Description" class="form-label">Description</label>
+                <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+                <span asp-validation-for="Description" style="color:red"></span>
+            </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

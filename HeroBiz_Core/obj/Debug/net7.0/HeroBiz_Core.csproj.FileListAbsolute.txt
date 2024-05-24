@@ -1,0 +1,12 @@
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Core\bin\Debug\net7.0\HeroBiz_Core.deps.json
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Core\bin\Debug\net7.0\HeroBiz_Core.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Core\bin\Debug\net7.0\HeroBiz_Core.pdb
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Core\obj\Debug\net7.0\HeroBiz_Core.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Core\obj\Debug\net7.0\HeroBiz_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Core\obj\Debug\net7.0\HeroBiz_Core.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Core\obj\Debug\net7.0\HeroBiz_Core.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Core\obj\Debug\net7.0\HeroBiz_Core.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Core\obj\Debug\net7.0\HeroBiz_Core.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Core\obj\Debug\net7.0\refint\HeroBiz_Core.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Core\obj\Debug\net7.0\HeroBiz_Core.pdb
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Core\obj\Debug\net7.0\ref\HeroBiz_Core.dll

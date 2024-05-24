@@ -1,0 +1,48 @@
+﻿@using HeroBiz_Core.Models;
+@model List<OurService>
+
+@{
+    int count = 0;
+}
+
+<h1>
+    Our Services
+
+    <a class="btn btn-primary" asp-action="Create">Create</a>
+</h1>
+
+<div class="container">
+    <div class="row">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Title</th>
+                    <th scope="col">Description</th>
+                    <th scope="col">Image</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var item in Model)
+                {
+                    count++;
+                    <tr>
+                        <td>@count</td>
+                        <td>@item.Title</td>
+                        <td>@item.Description</td>
+                        <td>
+                            <div style="width:100px">
+                                <img width="100%" src="~/upload/ourservice/@item.ImgUrl" />
+                            </div>
+                        </td>
+                        <td>
+                            <a class="btn btn-warning" asp-action="Update" asp-controller="OurServ" asp-route-id="@item.Id">Update</a>
+                            <a class="btn btn-danger" asp-action="Delete" asp-controller="OurServ" asp-route-id="@item.Id">Delete</a>
+                        </td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>

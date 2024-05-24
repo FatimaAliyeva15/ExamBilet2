@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Business\bin\Debug\net7.0\HeroBiz_Business.deps.json
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Business\bin\Debug\net7.0\HeroBiz_Business.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Business\bin\Debug\net7.0\HeroBiz_Business.pdb
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Business\bin\Debug\net7.0\HeroBiz_Core.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Business\bin\Debug\net7.0\HeroBiz_Data.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Business\bin\Debug\net7.0\HeroBiz_Data.pdb
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Business\bin\Debug\net7.0\HeroBiz_Core.pdb
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Business\obj\Debug\net7.0\HeroBiz_Business.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Business\obj\Debug\net7.0\HeroBiz_Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Business\obj\Debug\net7.0\HeroBiz_Business.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Business\obj\Debug\net7.0\HeroBiz_Business.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Business\obj\Debug\net7.0\HeroBiz_Business.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Business\obj\Debug\net7.0\HeroBiz_Business.csproj.CopyComplete
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Business\obj\Debug\net7.0\HeroBiz_Business.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Business\obj\Debug\net7.0\refint\HeroBiz_Business.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Business\obj\Debug\net7.0\HeroBiz_Business.pdb
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\HeroBiz_Business\obj\Debug\net7.0\ref\HeroBiz_Business.dll
